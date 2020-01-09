@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>aaa bbb ccc</title>
+  <title>aaa bbb ccc da resolve conflig</title>
  </head>
  <body>
  <?php echo '<p>Hello World</p>'; ?> 
